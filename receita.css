@@ -1,0 +1,40 @@
+h1{
+    color: black;
+    font-size: 64px;
+    border: 1px solid black;
+     text-align: center
+  }
+  h2{    font-size: 45px;
+      color: brown;
+    text-align: center;
+  }
+  h3{
+    color: Brown;
+      font-size: 64px;
+     text-align: center;
+  
+  
+  }
+  img{
+    margin-top: 16px;
+    width: 70%;
+    display: block;
+   margin: 0 auto;
+  }
+    html{
+      background-color: #e6be97
+    
+    }
+   
+  h4{
+      font-size: 40px;
+  }
+  li{
+    font-size: 25px;
+  }
+  h5{
+    font-size: 40px;
+  }
+  ol{
+    font-size: 25px;
+  }
